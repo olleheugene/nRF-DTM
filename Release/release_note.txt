@@ -1,0 +1,109 @@
+v0.10.2
+    # Fixed issue that wasn't execute stop command when infinite transmit
+    # Removed test logs
+-----------------------------------------     
+v0.10.0
+    # Available Hide/Show log window by Menu for supporting small size display
+    # Status Icon Added
+    # Tool located at the center of display
+    # Fixed some stability issue
+-----------------------------------------     
+v0.9.2
+    # Extended time limit to 100000000 msec
+-----------------------------------------     
+v0.9.1
+    # Supports Python 3.5
+    # Improved stability
+-----------------------------------------     
+v0.9.0
+    # Changed default value of payload model to Constant carrier
+    # Enabled capturing logs by mouse dragging on edit window
+    # Changed tool name to nRF_DTM.exe
+    # Supports CxFreeze script to provide installable tool
+    # Supports Pyinstaller script to make real stand-alone tool
+    # Supports Command Line Interface on shell prompt
+    # Supports Direct command from console prompt
+    # Added Menubar on GUI
+    # Added 'repeat' command to test multiple times
+    # Fancy Log scheme
+        - Configurable Log Level (INFO,DEBUG)
+        - Displays Time, Log Level
+        - Displays all logs into edit window
+----------------------------------------- 
+v0.8.2
+    # Changed distribution tool
+    	- Includes QT library
+    # Modified code for protectioning mimimum value of Tx and Rx
+    # Increase font size
+-----------------------------------------    
+v0.8.1
+    # Changed range of Runtime 1 to 1000000 in Receiver test
+      (Transmitter test is able to set 0 to 1000000)
+-----------------------------------------
+v0.8.0
+    # Support Windows 7
+-----------------------------------------
+v0.7.4
+    # Removed non-used Menu
+    # Limitation
+        - Supports only Windows 10
+-----------------------------------------
+v0.7.3
+    # Removed 802.15.4 PHY item
+    # Limitation
+        - Supports only Windows 10
+-----------------------------------------
+v0.7.2
+    # Enabled titie bar for window movement
+    # Limitation
+        - Supports only Windows 10
+-----------------------------------------
+v0.7.1
+    # Fixed BLE S2, S8 PER Calculation
+    # Limitation
+        - Supports only Windows 10
+-----------------------------------------
+
+v0.7.0
+    # Enable PHY setting for T/Rx both
+    # Improved stability
+    
+    # Limitation
+        - Supports only Windows 10
+-----------------------------------------
+v0.6.0
+    # Add CSS Style source
+    # Add feature for receiver test with 2 devices
+    # Apply common time configuration for T/Rx running time
+    
+    # Known Issue
+        - Doesn't work 2Mbps Receiver test
+        - Doesn't work on Windows 7 (Only supports Windows 10)
+-----------------------------------------
+v0.5.6
+    # Add Information window
+    # Todo
+        - Canceling thread processing for smooth UI
+        - Receiver Test with 2 DKs
+        - Auto Test Mode (CLI)
+-----------------------------------------
+v0.5.5
+    # Add Nordic icon for window 
+-----------------------------------------
+v0.5.4
+    # Re-design thread control logic 
+    # Known issues
+      - UI stop until finish previous job
+      - Receiver test is not yet implemented fully
+-----------------------------------------
+v0.5.3
+    # Add Trashcan Icon
+    # Add function for clear up log data 
+-----------------------------------------
+v0.5.2
+    # Add Nordic icon 
+-----------------------------------------
+v0.5.1
+    # Change CSS Style for Black UI
+    # Add Thread for smoother UI
+-----------------------------------------
