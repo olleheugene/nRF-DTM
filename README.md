@@ -16,7 +16,7 @@ The nRF_DTM is UI based test tool that helping to RF test by easy control
 
 
 # Getting Started
-## How to use UI based NRF DTM
+### UI based nRF DTM
 
 There are two types to use this tool.
 
