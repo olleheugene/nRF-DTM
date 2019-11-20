@@ -1,8 +1,6 @@
-## Introduction
+### Introduction
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/image-20191025101051697.png">
 
----
-
-<p><img src=".\Resource_DTM_Guide\clip_image002.jpg"></p>  
 The nRF_DTM is UI based test tool that helping to RF test by easy control
 
 - UI based RF test tool
@@ -17,11 +15,11 @@ The nRF_DTM is UI based test tool that helping to RF test by easy control
 
 
 
+## Getting Started
 
 
 
-
-## How to use UI based NRF DTM
+How to use UI based NRF DTM
 
 ---
 
