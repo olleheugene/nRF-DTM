@@ -17,7 +17,9 @@ Supporting features are
 - Direct command on terminal and command line interface on shell
 
 
-# Overview
+# Getting Started
 To learn more about nRF DTM, please visit check wiki page
 
-
+# Remarks 
+This tool is not official Nordic's tool that planed,developed and production level verification by Nordic semiconductor.
+All bug reports, feedback are welcome.
