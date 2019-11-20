@@ -17,6 +17,7 @@ Supporting features are
 - Direct command on terminal and command line interface on shell
 
 
-
+# Overview
+To learn more about nRF DTM, please visit check wiki page
 
 
