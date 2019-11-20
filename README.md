@@ -1,4 +1,7 @@
 # nRF DTM
+
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/image-20191025101051697.png">
+
 nRF DTM is UI based RF test tool for Nordic nRF5 series.
 It provides ease of control for configuring RF setting as channel, Tx power, etc.
 
@@ -13,7 +16,6 @@ Supporting features are
 - Configurable log level in order to check test sequence and detiails
 - Direct command on terminal and command line interface on shell
 
-<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/image-20191025101051697.png">
 
 
 
