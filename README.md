@@ -1,5 +1,5 @@
 # Introduction
-<img src="https://github.com/olleheugene/nRF-DTM/blob/master/image-20191025101051697.png">
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/image-20191025101051697.png">
 
 The nRF_DTM is UI based test tool that helping to RF test by easy control
 
@@ -22,7 +22,7 @@ There are two types to use this tool.
 
 #### Basic environment
 
-![1552528713853](.\Resource_DTM\1552528713853.png)
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/1552528713853.png">
 
 - Connect PC and Target board through USB to UART converter
 - Nomally 4 lines needed for UART
@@ -73,7 +73,8 @@ Menu > View > Select "Log window"
 
 ---
 
-![1552546940038](.\Resource_DTM\1552546940038.png)
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/1552546940038.png">
+
 
 #### Direct Terminal command
 
@@ -105,11 +106,11 @@ For command execution on shell based command line interface
 
    You can easily check the available commands by pressing tab key or typing "help"
 
-   ![1552547619291](.\Resource_DTM\1552547619291.png)
+   <img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/1552547619291.png">
 
 4. You can check the detail of options by adding `--help` that whatever you want 
 
-   ![1552548042311](.\Resource_DTM\1552548042311.png)
+  <img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/1552548042311.png">
 
 5. For example, 
 
@@ -165,7 +166,7 @@ For command execution on shell based command line interface
 
 #### Prerequisite 
 
-![1552545829421](.\Resource_DTM\1552545829421.png)
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/1552545829421.png">
 
 - DK x 2EA 
 
@@ -231,7 +232,8 @@ For command execution on shell based command line interface
 
   Test Environment
 
-![1543299852168](C:/Users/Eugene/Google%20Drive/1.Nordic%20Semiconductor%20Korea/Common/02.NORDIC_KOREA_GuideDocument/Resource_DTM_Guide/1543299852168.png)
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/1543299852168.png">
+
 
 #### Test Procedure
 
@@ -252,4 +254,4 @@ For command execution on shell based command line interface
 
    It can be used simple measurement of Tx power level or frequency shift(if it has big gap)
 
-<p><img src="./Resource_DTM_Guide/1543300108933.png" width="50%" align="center"></p>
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/1543300108933.png">
