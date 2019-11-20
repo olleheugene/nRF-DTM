@@ -18,7 +18,7 @@ Supporting features are
 
 
 # Getting Started
-To learn more about nRF DTM, please visit check [wiki](https://github.com/olleheugene/nRF-DTM/wiki) page
+To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/nRF-DTM/wiki) page
 
 # Remarks 
 This tool is not official Nordic's tool that planed,developed and production level verification by Nordic semiconductor.
