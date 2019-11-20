@@ -5,7 +5,7 @@
 nRF DTM is UI based RF test tool for Nordic nRF5 series.
 It provides ease of control for configuring RF setting as channel, Tx power, etc.
 
-The nRF DTM is mainly provides UI tool but it supports command-line base tool as well.
+The nRF DTM mainly provides UI tool but it supports command-line base tool as well.
 
 Supporting features are 
 - UI based RF test tool
