@@ -71,7 +71,6 @@ Menu > View > Select "Log window"
 
 ## Command Line based nRF DTM 
 
----
 
 <img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/1552546940038.png">
 
@@ -162,7 +161,6 @@ For command execution on shell based command line interface
 
 ## Simple test with development kit (Case 1)
 
----
 
 #### Prerequisite 
 
@@ -214,7 +212,6 @@ For command execution on shell based command line interface
 
 ## Simple test with development kit (Case 2)
 
----
 
 #### Preparation
 
