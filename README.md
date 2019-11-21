@@ -15,6 +15,7 @@ Supporting features are
 - PER measurement
 - Configurable log level in order to check test sequence and detiails
 - Direct command on terminal and command line interface on shell
+- Windows 32/64bit
 
 
 # Getting Started
