@@ -1,3 +1,6 @@
+v1.0.0
+    # Support 11111111 pattern for Coded PHY
+-----------------------------------------     
 v0.10.2
     # Fixed issue that wasn't execute stop command when infinite transmit
     # Removed test logs
