@@ -24,7 +24,7 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 [Link for downloading macOS version](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)
 
 # How to modify the firmware source code to support the average RSSI measurement
-[SFK v17.0.2](https://github.com/olleheugene/nRF-DTM/wiki/for-SDK-v17.0.2)
+[SDK v17.0.2](https://github.com/olleheugene/nRF-DTM/wiki/for-SDK-v17.0.2)
 
 # Wiki for nRF DTM v1
 [Link for downloading package](https://github.com/olleheugene/nRF-DTM/archive/v1.0.zip)
