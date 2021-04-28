@@ -1,3 +1,11 @@
+v2.0.0
+    # New UI
+    # Supports reading average RSSI feature
+    # Supports infinite transmit by the "infinite" check-box or run-time set by 0
+    # Improved performance PER calculation for 2Mbps and Coded Phys 
+    # Remove CLI Feature
+    # Supports multiple OS (the executable file for the Linux is not in here due to the size limitation of Github)
+-----------------------------------------     
 v1.0.0
     # Support 11111111 pattern for Coded PHY
 -----------------------------------------     
