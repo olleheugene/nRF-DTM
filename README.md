@@ -1,30 +1,33 @@
 # nRF DTM
 
-<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/Main.gif">
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/DTM_USAGE.gif">
 
-nRF DTM is UI based RF test tool for Nordic nRF5 series.
-It provides ease of control for configuring RF setting as channel, Tx power, etc.
-
-The nRF DTM mainly provides UI tool but it supports command-line base tool as well.
+nRF DTM is UI based RF test tool for the Nordic nRF5 series.
+It provides ease of control for configuring RF setting as channels, Tx power, etc.
 
 Supporting features are 
 - UI based RF test tool
-- Bluetooth 5 features (2Mbps/Coded S8/Coded S2/1Mbps)
-- 3 channels sequential testing   (High/Mid/Low)
+- Supports Bluetooth 5 features (2Mbps/Coded S8/Coded S2/1Mbps)
+- Supports sequential 3 channels testing   (High/Mid/Low)
 - Configurable Tx Power
-- PER measurement
-- Configurable log level in order to check test sequence and detiails
-- Direct command on terminal and command line interface on shell
-- Windows 32/64bit
-
+- Supports PER measurement
+- Supports average RSSI measurement (Firmware modification required)
+- Configurable log level to check the test sequence and details
+- Supports Windows(Windows 7 32bit~)/ Ubuntu / macOS
 
 # Getting Started
 To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/nRF-DTM/wiki) page
 
-# Download latest version
+# Download the latest version
+[Link for downloading package](https://github.com/olleheugene/nRF-DTM/archive/v2.0.zip)
+
+# How to modify the firmware source code to support the average RSSI measurement
+[Link for downloading package](https://github.com/olleheugene/nRF-DTM/archive/v2.0.zip)
+
+# Wiki for nRF DTM v1
 [Link for downloading package](https://github.com/olleheugene/nRF-DTM/archive/v1.0.zip)
 
 # Remarks 
-This tool is not official Nordic's tool that planed,developed and production level verification by Nordic semiconductor.
+This tool is not an official Nordic tool that planned, developed, and production level verification by the Nordic semiconductor.
 
-All bug reports, feedback are welcome.
+All bug reports, feedbacks are welcome.
