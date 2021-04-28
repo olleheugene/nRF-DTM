@@ -13,7 +13,7 @@ Supporting features are
 - Supports PER measurement
 - Supports average RSSI measurement (Firmware modification required)
 - Configurable log level to check the test sequence and details
-- Supports Windows / Ubuntu / macOS
+- Supports Windows / ~~Ubuntu~~ / macOS
 
 # Getting Started
 To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/nRF-DTM/wiki) page
