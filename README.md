@@ -19,9 +19,7 @@ Supporting features are
 To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/nRF-DTM/wiki) page
 
 # Download the latest version
-[Link for Windows version](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM.exe)
-
-[Link for macOS version](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)
+[For Windows](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM.exe)   [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)
 
 # How to modify the firmware source code to support the average RSSI measurement
 [SDK v17.0.2](https://github.com/olleheugene/nRF-DTM/wiki/for-SDK-v17.0.2)
