@@ -22,8 +22,8 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 - [SDK v17.0.2](https://github.com/olleheugene/nRF-DTM/wiki/for-SDK-v17.0.2)
 
 # Download the latest version
-- [For Windows](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM.exe)  
-- [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)
+- [For Windows](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM_x86.exe)  
+- [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_macOS)
 
 # Download the previous version
 - [v1.0.0](https://github.com/olleheugene/nRF-DTM/archive/v1.0.zip)
