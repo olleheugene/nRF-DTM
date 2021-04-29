@@ -13,21 +13,20 @@ Supporting features are
 - Supports PER measurement
 - Supports average RSSI measurement (Firmware modification required)
 - Configurable log level to check the test sequence and details
-- Supports Windows / Ubuntu / macOS
+- Supports Windows / ~~Ubuntu~~ / macOS
 
 # Getting Started
 To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/nRF-DTM/wiki) page
 
-# Download the latest version
-[Link for downloading Windows version](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM.exe)
-
-[Link for downloading macOS version](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)
-
 # How to modify the firmware source code to support the average RSSI measurement
-[Link for downloading package](https://github.com/olleheugene/nRF-DTM/)
+- [SDK v17.0.2](https://github.com/olleheugene/nRF-DTM/wiki/for-SDK-v17.0.2)
 
-# Wiki for nRF DTM v1
-[Link for downloading package](https://github.com/olleheugene/nRF-DTM/archive/v1.0.zip)
+# Download the latest version
+- [For Windows](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM_x86.exe)  
+- [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_macOS)
+
+# Download the previous version
+- [v1.0.0](https://github.com/olleheugene/nRF-DTM/archive/v1.0.zip)
 
 # Remarks 
 This tool is not an official Nordic tool that planned, developed, and production level verification by the Nordic semiconductor.
