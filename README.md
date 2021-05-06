@@ -13,6 +13,7 @@ Supporting features are
 - Supports PER measurement
 - Supports average RSSI measurement (Firmware modification required)
 - Configurable log level to check the test sequence and details
+- Folllowing the Bluetooth's official [channel list table](https://devzone.nordicsemi.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-12/4722.Frequency.PNG)
 - Supports Windows / ~~Ubuntu~~ / macOS
 
 # Getting Started
