@@ -1,3 +1,8 @@
+v2.0.4
+    # Changed some UI and user experience
+    # The channel list follows the Bluetooth official channel table
+      [37,0,1,2,3,4,5,6,7,8,9,10,38,.....]
+-----------------------------------------    
 v2.0.0
     # New UI
     # Supports reading average RSSI feature
