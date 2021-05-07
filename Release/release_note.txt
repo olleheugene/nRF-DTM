@@ -1,3 +1,6 @@
+v2.0.5
+    # Fixed no more Tx test right after continuous Tx by using infinite Tx checkbox
+-----------------------------------------    
 v2.0.4
     # Changed some UI and user experience
     # The channel list follows the Bluetooth official channel table
