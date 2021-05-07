@@ -33,5 +33,7 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 
 # Attention 
 This tool is not an official Nordic tool that planned, developed, and production level verification by the Nordic semiconductor.
+Personal project for providing better usage.
+
 
 All bug reports, feedbacks are welcome.
