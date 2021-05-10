@@ -28,9 +28,6 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 - [For Ubuntu 20.04](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_Ubuntu_20.04)  
 - [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_macOS)
 
-# Download the previous version
-- [v1.0.0](https://github.com/olleheugene/nRF-DTM/archive/v1.0.zip)
-
 # Attention 
 This tool is not an official Nordic tool that planned, developed, and production level verification by the Nordic semiconductor.
 Personal project for providing better usage.
