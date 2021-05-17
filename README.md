@@ -25,7 +25,7 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 # Download the latest version
 - [For Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM_x86.exe)  
 - [For Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x64/nRF_DTM_x64.exe)  
-- [For Ubuntu 20.04](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_x64_Ubuntu_20.04)  
+- [For Ubuntu 20.04](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_Ubuntu_20.04)  
 - [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_macOS)
 
 # Attention 
