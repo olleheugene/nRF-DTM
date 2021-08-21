@@ -1,24 +1,15 @@
-v2.0.7
-    # Changed Font
------------------------------------------    
-v2.0.6
-    # Enable the "Payload len" field even when setting Rx 
------------------------------------------    
-v2.0.5
-    # Fixed no more Tx test right after continuous Tx by using infinite Tx checkbox
------------------------------------------    
-v2.0.4
-    # Changed some UI and user experience
-    # The channel list follows the Bluetooth official channel table
-      [37,0,1,2,3,4,5,6,7,8,9,10,38,.....]
------------------------------------------    
+v2.1.0
+    # Fixed issue that infinite tx feature keep enabling during in multiple channels testing
+    # Added Baudrate selection feature
+    # Added Channel list information window
+    # Applied resizable window
+-----------------------------------------     
 v2.0.0
-    # New UI
-    # Supports reading average RSSI feature
-    # Supports infinite transmit by the "infinite" check-box or run-time set by 0
-    # Improved performance PER calculation for 2Mbps and Coded Phys 
+    # Changed to simplfied UI
+    # Supports reading average RSSI
+    # Supports separate checkbox for easy control the infinite Transmit test
+    # Fixed PER formula error
     # Remove CLI Feature
-    # Supports multiple OS (the executable file for the Linux is not in here due to the size limitation of Github)
 -----------------------------------------     
 v1.0.0
     # Support 11111111 pattern for Coded PHY
