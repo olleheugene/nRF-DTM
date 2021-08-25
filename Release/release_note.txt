@@ -1,3 +1,6 @@
+v2.1.1
+    # Fixed that refresh button text size doesn't change
+-----------------------------------------     
 v2.1.0
     # Fixed issue that infinite tx feature keep enabling during in multiple channels testing
     # Added Baudrate selection feature
