@@ -13,6 +13,7 @@ Supporting features are
   - refer to the AoA TX test result
 - Bluetooth 5.2 Tx power control feature
 - Listing the supported features
+- Mutiple Baudrates
 - Sequential 3 channels testing   (High/Mid/Low)
 - Nordic Vendor specific commands (Tx Power / Constant Carrier )
 - PER measurement
