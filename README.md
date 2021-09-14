@@ -19,7 +19,8 @@ Supporting features are
 - Average RSSI measurement (Firmware modification required)
 - Configurable log level to check the test sequence and details
 - Selectable physical and link layer channel map
-  - Following the Bluetooth's official [Link layer channel list table](https://devzone.nordicsemi.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-12/4722.Frequency.PNG)
+  - The Bluetooth's [Link layer channel list](https://github.com/olleheugene/nRF-DTM/blob/master/pics/link_channels_org.png)
+  - The Bluetooth's [Physical layer channel list](https://github.com/olleheugene/nRF-DTM/blob/master/pics/physical_channels_org.png)
 - Supports Windows /Ubuntu 20.04 / macOS
 
 # Getting Started
