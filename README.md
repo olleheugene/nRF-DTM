@@ -13,13 +13,15 @@ Supporting features are
   - refer to the AoA TX test result
 - Bluetooth 5.2 Tx power control feature
 - Listing the supported features
+- Mutiple Baudrates
 - Sequential 3 channels testing   (High/Mid/Low)
 - Nordic Vendor specific commands (Tx Power / Constant Carrier )
 - PER measurement
 - Average RSSI measurement (Firmware modification required)
 - Configurable log level to check the test sequence and details
 - Selectable physical and link layer channel map
-  - Following the Bluetooth's official [Link layer channel list table](https://devzone.nordicsemi.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-12/4722.Frequency.PNG)
+  - The Bluetooth's [Link layer channel list](https://github.com/olleheugene/nRF-DTM/blob/master/pics/link_channels_org.png)
+  - The Bluetooth's [Physical layer channel list](https://github.com/olleheugene/nRF-DTM/blob/master/pics/physical_channels_org.png)
 - Supports Windows /Ubuntu 20.04 / macOS
 
 # Getting Started
@@ -32,7 +34,7 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 - [For Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM_x86.exe)  
 - [For Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x64/nRF_DTM_x64.exe)  
 - [For Ubuntu 20.04](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_x64_ubuntu)  
-- [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_macOS)
+- [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_x64_macOS)
 
 # Attention 
 This tool is not an official Nordic tool that planned, developed, and production level verification by the Nordic semiconductor.
