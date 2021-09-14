@@ -7,13 +7,19 @@ It provides ease of control for configuring RF setting as channels, Tx power, et
 
 Supporting features are 
 - UI based RF test tool
-- Supports Bluetooth 5 features (2Mbps/Coded S8/Coded S2/1Mbps)
-- Supports sequential 3 channels testing   (High/Mid/Low)
-- Configurable Tx Power
-- Supports PER measurement
-- Supports average RSSI measurement (Firmware modification required)
+- Bluetooth 5 features (2Mbps/Coded S8/Coded S2/1Mbps)
+- Bluetooth 5.1 DF features (AoA/AoD)
+  - Supports both AoA/AoD but DTM Firmware (nRF5 SDK v17.0.1/NCS v1.6) only supports AoA Tx
+  - refer to the AoA TX test result
+- Bluetooth 5.2 Tx power control feature
+- Listing the supported features
+- Sequential 3 channels testing   (High/Mid/Low)
+- Nordic Vendor specific commands (Tx Power / Constant Carrier )
+- PER measurement
+- Average RSSI measurement (Firmware modification required)
 - Configurable log level to check the test sequence and details
-- Following the Bluetooth's official [channel list table](https://devzone.nordicsemi.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-12/4722.Frequency.PNG)
+- Selectable physical and link layer channel map
+  - Following the Bluetooth's official [Link layer channel list table](https://devzone.nordicsemi.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-12/4722.Frequency.PNG)
 - Supports Windows /Ubuntu 20.04 / macOS
 
 # Getting Started
@@ -25,7 +31,7 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 # Download the latest version
 - [For Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM_x86.exe)  
 - [For Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x64/nRF_DTM_x64.exe)  
-- [For Ubuntu 20.04](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_Ubuntu_20.04)  
+- [For Ubuntu 20.04](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_x64_ubuntu)  
 - [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_macOS)
 
 # Attention 

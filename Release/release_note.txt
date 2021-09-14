@@ -1,3 +1,11 @@
+v2.3.0
+    # Added BT Core v5.1 Direction Finding feature
+    # Added BT Core v5.2 Standard Tx power control feature (still supporting Nordic Vendor specific Tx power control feature)
+    # Added physical, Link layer channel selection menu (Physical layer channels are default)
+    # Added Physical layer channels info in channel window
+    # Added listing supported features in the log window
+    # Little UI changes
+-----------------------------------------         
 v2.1.1
     # Fixed that refresh button text size doesn't change
 -----------------------------------------     
