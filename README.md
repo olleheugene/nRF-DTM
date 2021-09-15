@@ -9,7 +9,7 @@ Supporting features are
 - UI based RF test tool
 - Bluetooth 5 features (2Mbps/Coded S8/Coded S2/1Mbps)
 - Bluetooth 5.1 DF features (AoA/AoD)
-  - Supports both AoA/AoD but DTM Firmware (nRF5 SDK v17.0.1/NCS v1.6) only supports AoA Tx
+  - Supports both AoA/AoD but DTM Firmware (nRF5 SDK v17.0.2/NCS v1.6) only supports AoA Tx
   - refer to the AoA TX test result
 - Bluetooth 5.2 Tx power control feature
 - Listing the supported features
