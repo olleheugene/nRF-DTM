@@ -1,3 +1,6 @@
+v2.3.1
+    # Fixed not applying the DF configuration until changing the value
+-----------------------------------------    
 v2.3.0
     # Added BT Core v5.1 Direction Finding feature
     # Added BT Core v5.2 Standard Tx power control feature (still supporting Nordic Vendor specific Tx power control feature)
