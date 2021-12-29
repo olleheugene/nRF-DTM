@@ -9,11 +9,11 @@ Supporting features are
 - UI based RF test tool
 - Bluetooth 5 features (2Mbps/Coded S8/Coded S2/1Mbps)
 - Bluetooth 5.1 DF features (AoA/AoD)
-  - Supports both AoA/AoD but DTM Firmware (nRF5 SDK v17.0.2/NCS v1.6) only supports AoA Tx
+  - The nRF DTM tool supports both AoA/AoD but the DTM Firmware  in nRF5 SDK only supports AoA Tx
   - refer to the [AoA TX test result](https://github.com/olleheugene/nRF-DTM/wiki/AoA-test-result)
 - Bluetooth 5.2 Tx power control feature
 - Listing the supported features
-- Mutiple Baudrates
+- Multiple UART Baudrates
 - Sequential 3 channels testing   (High/Mid/Low)
 - Nordic Vendor specific commands (Tx Power / Constant Carrier )
 - PER measurement
