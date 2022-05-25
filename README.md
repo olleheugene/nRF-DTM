@@ -2,7 +2,7 @@
 
 <img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/DTM_USAGE.gif">
 
-The nRF DTM is UI-based a standalone RF test tool designed for ease of controlling RF Test features of the nRF5 series of Nordic semiconductor.
+The nRF DTM is a UI-based standalone RF test tool designed for ease of controlling RF Test features of the nRF5 series of Nordic semiconductor.
 
 Supporting features are 
 - UI based RF test tool
