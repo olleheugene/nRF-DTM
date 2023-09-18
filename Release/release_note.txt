@@ -1,7 +1,12 @@
+v2.5.0
+    # Fixed wrong calculation for Coded PHY(S=2) expected packet count
+    # Moved payload length field to common radio control area
+-----------------------------------------    
 v2.4.0
     # Fixed issue that UART doesn't close by selecting the bit pattern with Constant Carrier
     # Ignores packet length of Constant carrier to avoid the wrong configuration by the user
     # Some UI changed
+-----------------------------------------    
 v2.3.1
     # Fixed not applying the DF configuration until changing the value
 -----------------------------------------    
