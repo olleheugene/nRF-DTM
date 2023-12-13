@@ -1,3 +1,6 @@
+v2.6.0
+    # Fixed issue that multichannel setting revert back to default
+-----------------------------------------    
 v2.5.0
     # Fixed wrong calculation for Coded PHY(S=2) expected packet count
     # Moved payload length field to common radio control area
