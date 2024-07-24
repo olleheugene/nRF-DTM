@@ -1,7 +1,16 @@
+v3.0.0
+This version includes
+    # Support .ini file for initial configuration
+    # Auto search DTM available serial port
+    # Added local test guide menu
+    # Added new tab to show supported feature of DTM application
+    # Cosmetic update
+-----------------------------------------   
 v2.6.1
     * This changes applied only Windows
     # Fixed highlighting Link/Physical channel list
     # Rebuild with python 3.8 for Windows 64bits
+-----------------------------------------   
 v2.6.0
     # Fixed issue that multichannel setting revert back to default
 -----------------------------------------    

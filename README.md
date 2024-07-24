@@ -13,15 +13,18 @@ Supporting features are
 - Bluetooth 5.2's Tx power control feature
 - Listing the supported features
 - Selectable UART Baudrates
-- Sequential 3 channels testing   (High/Mid/Low)
+- 3 sequential channels testing   (High/Mid/Low)
 - Nordic Vendor-specific commands (Tx Power / Constant Carrier )
 - PER measurement
+- Listing DTM available serial port(s)
 - Average RSSI measurement (Firmware modification required)
 - Configurable log level to check the test sequence and details
+- configurable settings with .ini
+- Integrated test guide
 - Selectable physical and link-layer channel map
   - The Bluetooth's [Link layer channel list](https://github.com/olleheugene/nRF-DTM/raw/master/pics/link_channels_org.png)
   - The Bluetooth's [Physical layer channel list](https://github.com/olleheugene/nRF-DTM/raw/master/pics/physical_channels_org.png)
-- The firmware built on Windows7 32bit,64bit/macOS 13.3.1/Ubuntu 22.04
+- Support multiple OS (macOS/Windows/Ubuntu)
 
 # Getting Started
 To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/nRF-DTM/wiki) page
@@ -30,7 +33,7 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 - [Code Changes](https://github.com/olleheugene/nRF-DTM/wiki/Code-Changes)
 
 # Download the latest version
-- [For Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM_x86.exe)  
+- [For Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM_x86.exe)  (available in 2.x.x versions only)
 - [For Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x64/nRF_DTM_x64.exe)  
 - [For Ubuntu 22.04](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_x64_ubuntu)  
 - [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_x64_macOS)
