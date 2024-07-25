@@ -19,7 +19,7 @@ Supporting features are
 - Listing DTM available serial port(s)
 - Average RSSI measurement (Firmware modification required)
 - Configurable log level to check the test sequence and details
-- configurable settings with .ini
+- [configurable settings with .ini](Release/Windows/nrfdtm_config.ini)
 - Integrated test guide
 - Selectable physical and link-layer channel map
   - The Bluetooth's [Link layer channel list](https://github.com/olleheugene/nRF-DTM/raw/master/pics/link_channels_org.png)
@@ -33,10 +33,10 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 - [Code Changes](https://github.com/olleheugene/nRF-DTM/wiki/Code-Changes)
 
 # Download the latest version
-- [For Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM_x86.exe)  (available in 2.x.x versions only)
-- [For Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x64/nRF_DTM_x64.exe)  
-- [For Ubuntu 22.04](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_x64_ubuntu)  
-- [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_x64_macOS)
+- [For Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/v2.6.1/Release/Windows_x86/nRF_DTM_x86.exe)  (available in 2.x.x versions only)
+- [For Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows/nRF_DTM.exe)  
+- [For Ubuntu](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM)  
+- [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)
 
 # Attention 
 This tool is not an official Nordic tool that planned, developed, and production level verification by the Nordic semiconductor.
