@@ -34,9 +34,9 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 
 # Download the latest version
 - [For Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x86/nRF_DTM_x86.exe)  (available in 2.x.x versions only)
-- [For Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x64/nRF_DTM_x64.exe)  
-- [For Ubuntu 22.04](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_x64_ubuntu)  
-- [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_x64_macOS)
+- [For Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows_x64/nRF_DTM.exe)  
+- [For Ubuntu 22.04](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM)  
+- [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)
 
 # Attention 
 This tool is not an official Nordic tool that planned, developed, and production level verification by the Nordic semiconductor.
