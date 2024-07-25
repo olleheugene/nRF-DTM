@@ -19,7 +19,7 @@ Supporting features are
 - Listing DTM available serial port(s)
 - Average RSSI measurement (Firmware modification required)
 - Configurable log level to check the test sequence and details
-- configurable settings with .ini
+- [configurable settings with .ini](Release/Windows/nrfdtm_config.ini)
 - Integrated test guide
 - Selectable physical and link-layer channel map
   - The Bluetooth's [Link layer channel list](https://github.com/olleheugene/nRF-DTM/raw/master/pics/link_channels_org.png)
