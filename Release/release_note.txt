@@ -1,5 +1,11 @@
-v3.0.0
+v3.1.0
 This version includes
+    # Supports Command line based application
+    # The CLI-based application API has been removed from the DTM library
+    # Default configuration changed
+    # Enum values from the DTM library separated
+-----------------------------------------   
+v3.0.0
     # Support .ini file for initial configuration
     # Auto search DTM available serial port
     # Added local test guide menu
