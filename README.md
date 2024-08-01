@@ -1,46 +1,75 @@
-# nRF DTM
+# nRF DTM (nRF DTM CLI)
+
+The nRF DTM is a [UI-based](https://github.com/olleheugene/nRF-DTM/wiki/UI-based-test) or [Command line based](https://github.com/olleheugene/nRF-DTM/wiki/Direct-Terminal-Command) standalone RF test tool designed for ease of controlling RF Test features of the nRF5 series of Nordic semiconductor.
+
+### Features 
+
+- UI based, and separate Command line based tool for Bluetooth RF test 
+
+- Supports most of Bluetooth DTM RF test features (2Mbps/Coded S8/Coded S2/1Mbps/[AoA](https://github.com/olleheugene/nRF-DTM/wiki/AoA-test-result)/AoD/Tx power control)
+- Supports listing supported DTM features of the device
+- Supports high, middle, and low 3 different channel sequential test
+- Supports Nordic vendor-specific commands (Tx Power / Constant Carrier )
+- Supports PER measurement with configurable level to verdict pass/fail
+- Listing DTM available serial port(s) and automatic selection for DTM device
+- Average RSSI measurement (Firmware modification required)
+- Configurable log level to check the test sequence and details
+- Supports predefined configurations [configurable settings with .ini](Release/Windows/nrfdtm_config.ini)
+- Integrated test guide
+- Supports selectable channel map in [physical-layer](https://github.com/olleheugene/nRF-DTM/raw/master/pics/physical_channels_org.png) and [link-layer](https://github.com/olleheugene/nRF-DTM/raw/master/pics/link_channels_org.png) channels
+- Support multiple OS (macOS/Windows/Ubuntu)
+
+
+
+# UI-based nRF-DTM
 
 <img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/DTM_USAGE.gif">
 
-The nRF DTM is a UI-based standalone RF test tool designed for ease of controlling RF Test features of the nRF5 series of Nordic semiconductor.
+https://github.com/olleheugene/nRF-DTM/wiki/UI-based-test
 
-Supporting features are 
-- UI based RF test tool
-- Bluetooth 5 features (2Mbps/Coded S8/Coded S2/1Mbps)
-- Bluetooth 5.1 DF features (AoA/AoD)
-  - The nRF DTM tool supports both AoA/AoD but the DTM Firmware  in nRF5 SDK only supports AoA Tx
-  - refer to the [AoA TX test result](https://github.com/olleheugene/nRF-DTM/wiki/AoA-test-result)
-- Bluetooth 5.2's Tx power control feature
-- Listing the supported features
-- Selectable UART Baudrates
-- 3 sequential channels testing   (High/Mid/Low)
-- Nordic Vendor-specific commands (Tx Power / Constant Carrier )
-- PER measurement
-- Listing DTM available serial port(s)
-- Average RSSI measurement (Firmware modification required)
-- Configurable log level to check the test sequence and details
-- [configurable settings with .ini](Release/Windows/nrfdtm_config.ini)
-- Integrated test guide
-- Selectable physical and link-layer channel map
-  - The Bluetooth's [Link layer channel list](https://github.com/olleheugene/nRF-DTM/raw/master/pics/link_channels_org.png)
-  - The Bluetooth's [Physical layer channel list](https://github.com/olleheugene/nRF-DTM/raw/master/pics/physical_channels_org.png)
-- Support multiple OS (macOS/Windows/Ubuntu)
 
-# Getting Started
-To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/nRF-DTM/wiki) page
 
-# How to modify the firmware source code to support the average RSSI measurement
+# Command line based nRF-DTM
+
+https://github.com/olleheugene/nRF-DTM/wiki/Direct-Terminal-Command
+
+
+
+# Guide to modify firmware for RSSI measurement
+
 - [Code Changes](https://github.com/olleheugene/nRF-DTM/wiki/Code-Changes)
 
+
+
 # Download the latest version
-- [For Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/v2.6.1/Release/Windows_x86/nRF_DTM_x86.exe)  (available in 2.x.x versions only)
-- [For Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows/nRF_DTM.exe)  
-- [For Ubuntu](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM)  
-- [For macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)
+
+### nRF-DTM
+
+- [Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/v2.6.1/Release/Windows_x86/nRF_DTM_x86.exe)  (available in 2.x.x versions only)
+- [Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows/nRF_DTM.exe)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Windows/nrfdtm_config.ini)
+- [Ubuntu](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Ubuntu/nrfdtm_config.ini)
+- [macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/macOS/nrfdtm_config.ini)
+
+### nRF-DTM-CLI
+
+- [Windows 64bit](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Windows/nRF_DTM_CLI.exe)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Windows/nrfdtm_config.ini)
+- [Ubuntu](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_CLI)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Ubuntu/nrfdtm_config.ini)
+- [macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_CLI)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/macOS/nrfdtm_config.ini)
+
+
+
+# More details
+
+To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/nRF-DTM/wiki) page
+
+
 
 # Attention 
-This tool is not an official Nordic tool that planned, developed, and production level verification by the Nordic semiconductor.
-Personal project for providing better usage.
+
+This is a personal project for convenient use of DTM. 
+
+Therefore, there is no planning, development, and production-level testing at Nordic Semiconductor.
 
 
-All bug reports, feedbacks are welcome.
+
+But all bug reports and feedback are welcome. :)
