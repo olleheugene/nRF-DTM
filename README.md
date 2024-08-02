@@ -29,8 +29,8 @@ https://github.com/olleheugene/nRF-DTM/wiki/UI-based-test
 
 
 
-# Command line based nRF-DTM
-
+# Command line-based nRF-DTM
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/cli.gif">
 https://github.com/olleheugene/nRF-DTM/wiki/Direct-Terminal-Command
 
 
