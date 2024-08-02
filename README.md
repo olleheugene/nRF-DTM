@@ -1,6 +1,6 @@
 # nRF DTM (nRF DTM CLI)
 
-The nRF DTM is a [UI-based](https://github.com/olleheugene/nRF-DTM/wiki/UI-based-test) or [Command line based](https://github.com/olleheugene/nRF-DTM/wiki/Direct-Terminal-Command) standalone RF test tool designed for ease of controlling RF Test features of the nRF5 series of Nordic semiconductor.
+The nRF DTM is a [UI-based](https://github.com/olleheugene/nRF-DTM/wiki/UI-based-test) or [Command line based](https://github.com/olleheugene/nRF-DTM/wiki/Direct-Terminal-Command) standalone RF test tool designed for ease of controlling RF Test features of the nRF5 series of Nordic Semiconductor.
 
 ### Features 
 
@@ -67,9 +67,7 @@ To learn more about nRF DTM, please visit [wiki](https://github.com/olleheugene/
 # Attention 
 
 This is a personal project for convenient use of DTM. 
-
-Therefore, there is no planning, development, and production-level testing at Nordic Semiconductor.
-
+Therefore, Nordic Semiconductor will not be provided with official support for this tool.
 
 
 But all bug reports and feedback are welcome. :)
