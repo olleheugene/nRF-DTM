@@ -23,14 +23,14 @@ The nRF DTM is a [UI-based](https://github.com/olleheugene/nRF-DTM/wiki/UI-based
 
 # UI-based nRF-DTM
 
-<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/DTM_USAGE.gif">
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/DTM_USAGE.gif" width=80%>
 
 https://github.com/olleheugene/nRF-DTM/wiki/UI-based-test
 
 
 
 # Command line-based nRF-DTM
-<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/cli.gif">
+<img src="https://github.com/olleheugene/nRF-DTM/blob/master/pics/cli.gif" width=70%>
 https://github.com/olleheugene/nRF-DTM/wiki/Direct-Terminal-Command
 
 
