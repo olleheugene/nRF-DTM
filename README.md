@@ -54,7 +54,7 @@ https://github.com/olleheugene/nRF-DTM/wiki/Direct-Terminal-Command
 
 - [Windows 64bit](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Windows/nRF_DTM_CLI.exe)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Windows/nrfdtm_config.ini)
 - [Ubuntu](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_CLI)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Ubuntu/nrfdtm_config.ini)
-- [macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_CLI)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/macOS/nrfdtm_config.ini)
+- [macOS-Intel core](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_CLI)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/macOS/nrfdtm_config.ini)
 
 
 
