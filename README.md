@@ -56,6 +56,7 @@ https://github.com/olleheugene/nRF-DTM/wiki/Direct-Terminal-Command
 - [Ubuntu](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_CLI)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Ubuntu/nrfdtm_config.ini)
 - [macOS-Intel core](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_CLI)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/macOS/nrfdtm_config.ini)
 
+> To run the tool on macOS, hold down the "Control" key and click on the nRF_DTM.
 
 
 # More details
