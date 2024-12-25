@@ -48,13 +48,13 @@ https://github.com/olleheugene/nRF-DTM/wiki/Direct-Terminal-Command
 - [Windows 32bit](https://github.com/olleheugene/nRF-DTM/raw/v2.6.1/Release/Windows_x86/nRF_DTM_x86.exe)  (available in 2.x.x versions only)
 - [Windows 64bit](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Windows/nRF_DTM.exe)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Windows/nrfdtm_config.ini)
 - [Ubuntu](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Ubuntu/nrfdtm_config.ini)
-- [macOS](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/macOS/nrfdtm_config.ini)
+- [macOS-Intel core](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM)(tested w/ macOS 13 Ventura)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/macOS/nrfdtm_config.ini)
 
 ### nRF-DTM-CLI
 
 - [Windows 64bit](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Windows/nRF_DTM_CLI.exe)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Windows/nrfdtm_config.ini)
 - [Ubuntu](https://github.com/olleheugene/nRF-DTM/raw/master/Release/Ubuntu/nRF_DTM_CLI)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/Ubuntu/nrfdtm_config.ini)
-- [macOS-Intel core](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_CLI)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/macOS/nrfdtm_config.ini)
+- [macOS-Intel core](https://github.com/olleheugene/nRF-DTM/raw/master/Release/macOS/nRF_DTM_CLI)(tested w/ macOS 13 Ventura)  / [ini file (default configuration file)](https://github.com/olleheugene/nRF-DTM/blob/master/Release/macOS/nrfdtm_config.ini)
 
 > To run the tool on macOS, hold down the "Control" key and click on the nRF_DTM.
 
